@@ -48,6 +48,8 @@ Headings rise line by line and blocks fade in as they scroll into view. Without 
 
 **Sample content.** The doctors, reviews, prices, address, phone number and opening hours are examples. Replace them with your own before publishing.
 
+The "Powered by Formgong" links point to `https://formgong.com/review-page/fk_your_access_key`, so the same find and replace covers them. Once your key is in, the first click from your published site makes your own public review page on Formgong, where clients read and leave reviews, and every later click opens it. Switch the page off in Formgong (Reviews → your site → Settings) or change those links.
+
 ## Українська
 
 Односторінковий сайт для естетичної стоматології: один файл `index.html` і папка `img/`. Студія Odera, лікарі, адреса, відгуки й ціни вигадані, це приклад наповнення.
@@ -79,3 +81,5 @@ Headings rise line by line and blocks fade in as they scroll into view. Without 
 **Приклад наповнення.** Лікарі, відгуки, ціни, адреса, телефон і години роботи — приклади. Замініть їх своїми перед публікацією.
 
 MIT license.
+
+Посилання «Powered by Formgong» ведуть на `https://formgong.com/review-page/fk_your_access_key`, тож та сама заміна ключа оновить і їх. Коли ключ стоїть, перший перехід з вашого опублікованого сайту створює вашу публічну сторінку відгуків на Formgong, де клієнти читають і залишають відгуки; далі посилання відкриває її. Вимкнути сторінку можна у Formgong (Відгуки → ваш сайт → Налаштування) або змінити ці посилання.
